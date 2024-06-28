@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Green farming",
+    "slug": "Aplicación para agricultura.",
+    "description": "GREEN FARMING - 2024",
+    "privacy": "public",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/fondo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/carga.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/fondo.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
